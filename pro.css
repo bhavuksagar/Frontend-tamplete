@@ -1,0 +1,19 @@
+body{
+    background: url("https://www.netpremacy.com/wp-content/uploads/2018/09/Background-website-01.jpg");
+    background-size: cover;
+}
+.navbar{
+    margin-bottom: 0px;
+}
+h3{
+    margin-top: 0px;
+}
+.ff{
+    width: 270px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    margin-left: 40%;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+}
